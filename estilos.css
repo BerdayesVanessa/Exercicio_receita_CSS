@@ -41,6 +41,9 @@
   
   .lista{
     line-height: 0;
+    list-style: none;
+    text-align: left;
+    text-indent: -30px;
   }
 
   .titulo2{
